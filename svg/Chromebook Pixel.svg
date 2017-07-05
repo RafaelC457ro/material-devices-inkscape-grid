@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+  <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+  <svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="2560"
+     height="1700"
+     viewBox="0 0 2560 1700"
+     id="svg2"
+     version="1.1"
+     inkscape:version="0.91 r13725"
+     sodipodi:docname="Chromebook Pixel.svg">
+    <defs
+       id="defs4">
+      <clipPath
+         clipPathUnits="userSpaceOnUse"
+         id="clipPath16">
+        <path
+           d="M 0,560 960,560 960,0 0,0 0,560 Z"
+           id="path18"
+           inkscape:connector-curvature="0" />
+      </clipPath>
+    </defs>
+    <sodipodi:namedview
+       id="base"
+       pagecolor="#eeeeee"
+       bordercolor="#666666"
+       borderopacity="1"
+       inkscape:pageopacity="1"
+       inkscape:pageshadow="2"
+       inkscape:zoom="0.26244192"
+       inkscape:cx="743.20165"
+       inkscape:cy="1117.5564"
+       inkscape:document-units="px"
+       inkscape:current-layer="layer1"
+       showgrid="false"
+       units="px"
+       inkscape:window-width="1366"
+       inkscape:window-height="744"
+       inkscape:window-x="0"
+       inkscape:window-y="24"
+       inkscape:window-maximized="1"
+       showguides="true"
+       inkscape:guide-bbox="true">
+      <sodipodi:guide position="0,0" orientation="1,0" id="guide0" />
+<sodipodi:guide position="48,0" orientation="1,0" id="guide49" />
+<sodipodi:guide position="209.33333333333334,0" orientation="1,0" id="guide211.33333333333334" />
+<sodipodi:guide position="257.33333333333337,0" orientation="1,0" id="guide260.33333333333337" />
+<sodipodi:guide position="418.66666666666674,0" orientation="1,0" id="guide422.66666666666674" />
+<sodipodi:guide position="466.66666666666674,0" orientation="1,0" id="guide471.66666666666674" />
+<sodipodi:guide position="628.0000000000001,0" orientation="1,0" id="guide634.0000000000001" />
+<sodipodi:guide position="676.0000000000001,0" orientation="1,0" id="guide683.0000000000001" />
+<sodipodi:guide position="837.3333333333335,0" orientation="1,0" id="guide845.3333333333335" />
+<sodipodi:guide position="885.3333333333335,0" orientation="1,0" id="guide894.3333333333335" />
+<sodipodi:guide position="1046.6666666666667,0" orientation="1,0" id="guide1056.6666666666667" />
+<sodipodi:guide position="1094.6666666666667,0" orientation="1,0" id="guide1105.6666666666667" />
+<sodipodi:guide position="1256,0" orientation="1,0" id="guide1268" />
+<sodipodi:guide position="1304,0" orientation="1,0" id="guide1317" />
+<sodipodi:guide position="1465.3333333333333,0" orientation="1,0" id="guide1479.3333333333333" />
+<sodipodi:guide position="1513.3333333333333,0" orientation="1,0" id="guide1528.3333333333333" />
+<sodipodi:guide position="1674.6666666666665,0" orientation="1,0" id="guide1690.6666666666665" />
+<sodipodi:guide position="1722.6666666666665,0" orientation="1,0" id="guide1739.6666666666665" />
+<sodipodi:guide position="1883.9999999999998,0" orientation="1,0" id="guide1901.9999999999998" />
+<sodipodi:guide position="1931.9999999999998,0" orientation="1,0" id="guide1950.9999999999998" />
+<sodipodi:guide position="2093.333333333333,0" orientation="1,0" id="guide2113.333333333333" />
+<sodipodi:guide position="2141.333333333333,0" orientation="1,0" id="guide2162.333333333333" />
+<sodipodi:guide position="2302.6666666666665,0" orientation="1,0" id="guide2324.6666666666665" />
+<sodipodi:guide position="2350.6666666666665,0" orientation="1,0" id="guide2373.6666666666665" />
+<sodipodi:guide position="2512,0" orientation="1,0" id="guide2536" />
+<sodipodi:guide position="2560,0" orientation="1,0" id="guide2585" />
+
+    </sodipodi:namedview>
+    <metadata
+       id="metadata7">
+      <rdf:RDF>
+        <cc:Work
+           rdf:about="">
+          <dc:format>image/svg+xml</dc:format>
+          <dc:type
+             rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+          <dc:title></dc:title>
+        </cc:Work>
+      </rdf:RDF>
+    </metadata>
+  </svg>

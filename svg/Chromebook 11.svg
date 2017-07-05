@@ -1,5 +1,4 @@
-exports.template = (filename, width, height, gridLines) => {
-  return `<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
   <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
   <svg
@@ -10,13 +9,13 @@ exports.template = (filename, width, height, gridLines) => {
      xmlns="http://www.w3.org/2000/svg"
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-     width="${width}"
-     height="${height}"
-     viewBox="0 0 ${width} ${height}"
+     width="1366"
+     height="768"
+     viewBox="0 0 1366 768"
      id="svg2"
      version="1.1"
      inkscape:version="0.91 r13725"
-     sodipodi:docname="${filename}.svg">
+     sodipodi:docname="Chromebook 11.svg">
     <defs
        id="defs4">
       <clipPath
@@ -49,11 +48,24 @@ exports.template = (filename, width, height, gridLines) => {
        inkscape:window-maximized="1"
        showguides="true"
        inkscape:guide-bbox="true">
-      ${
-        gridLines.map((line,index) => {
-          return `<sodipodi:guide position="${line.x},${line.y}" orientation="${line.ox},${line.oy}" id="guide${line.x+index}" />`
-        }).join('\n')
-       }
+      <sodipodi:guide position="0,0" orientation="1,0" id="guide0" />
+<sodipodi:guide position="24,0" orientation="1,0" id="guide25" />
+<sodipodi:guide position="167.75,0" orientation="1,0" id="guide169.75" />
+<sodipodi:guide position="191.75,0" orientation="1,0" id="guide194.75" />
+<sodipodi:guide position="335.5,0" orientation="1,0" id="guide339.5" />
+<sodipodi:guide position="359.5,0" orientation="1,0" id="guide364.5" />
+<sodipodi:guide position="503.25,0" orientation="1,0" id="guide509.25" />
+<sodipodi:guide position="527.25,0" orientation="1,0" id="guide534.25" />
+<sodipodi:guide position="671,0" orientation="1,0" id="guide679" />
+<sodipodi:guide position="695,0" orientation="1,0" id="guide704" />
+<sodipodi:guide position="838.75,0" orientation="1,0" id="guide848.75" />
+<sodipodi:guide position="862.75,0" orientation="1,0" id="guide873.75" />
+<sodipodi:guide position="1006.5,0" orientation="1,0" id="guide1018.5" />
+<sodipodi:guide position="1030.5,0" orientation="1,0" id="guide1043.5" />
+<sodipodi:guide position="1174.25,0" orientation="1,0" id="guide1188.25" />
+<sodipodi:guide position="1198.25,0" orientation="1,0" id="guide1213.25" />
+<sodipodi:guide position="1342,0" orientation="1,0" id="guide1358" />
+<sodipodi:guide position="1366,0" orientation="1,0" id="guide1383" />
 
     </sodipodi:namedview>
     <metadata
@@ -69,5 +81,3 @@ exports.template = (filename, width, height, gridLines) => {
       </rdf:RDF>
     </metadata>
   </svg>
-`
-}

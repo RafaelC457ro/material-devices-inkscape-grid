@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+  <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+  <svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="3000"
+     height="2000"
+     viewBox="0 0 3000 2000"
+     id="svg2"
+     version="1.1"
+     inkscape:version="0.91 r13725"
+     sodipodi:docname="Surface Book.svg">
+    <defs
+       id="defs4">
+      <clipPath
+         clipPathUnits="userSpaceOnUse"
+         id="clipPath16">
+        <path
+           d="M 0,560 960,560 960,0 0,0 0,560 Z"
+           id="path18"
+           inkscape:connector-curvature="0" />
+      </clipPath>
+    </defs>
+    <sodipodi:namedview
+       id="base"
+       pagecolor="#eeeeee"
+       bordercolor="#666666"
+       borderopacity="1"
+       inkscape:pageopacity="1"
+       inkscape:pageshadow="2"
+       inkscape:zoom="0.26244192"
+       inkscape:cx="743.20165"
+       inkscape:cy="1117.5564"
+       inkscape:document-units="px"
+       inkscape:current-layer="layer1"
+       showgrid="false"
+       units="px"
+       inkscape:window-width="1366"
+       inkscape:window-height="744"
+       inkscape:window-x="0"
+       inkscape:window-y="24"
+       inkscape:window-maximized="1"
+       showguides="true"
+       inkscape:guide-bbox="true">
+      <sodipodi:guide position="0,0" orientation="1,0" id="guide0" />
+<sodipodi:guide position="48,0" orientation="1,0" id="guide49" />
+<sodipodi:guide position="246,0" orientation="1,0" id="guide248" />
+<sodipodi:guide position="294,0" orientation="1,0" id="guide297" />
+<sodipodi:guide position="492,0" orientation="1,0" id="guide496" />
+<sodipodi:guide position="540,0" orientation="1,0" id="guide545" />
+<sodipodi:guide position="738,0" orientation="1,0" id="guide744" />
+<sodipodi:guide position="786,0" orientation="1,0" id="guide793" />
+<sodipodi:guide position="984,0" orientation="1,0" id="guide992" />
+<sodipodi:guide position="1032,0" orientation="1,0" id="guide1041" />
+<sodipodi:guide position="1230,0" orientation="1,0" id="guide1240" />
+<sodipodi:guide position="1278,0" orientation="1,0" id="guide1289" />
+<sodipodi:guide position="1476,0" orientation="1,0" id="guide1488" />
+<sodipodi:guide position="1524,0" orientation="1,0" id="guide1537" />
+<sodipodi:guide position="1722,0" orientation="1,0" id="guide1736" />
+<sodipodi:guide position="1770,0" orientation="1,0" id="guide1785" />
+<sodipodi:guide position="1968,0" orientation="1,0" id="guide1984" />
+<sodipodi:guide position="2016,0" orientation="1,0" id="guide2033" />
+<sodipodi:guide position="2214,0" orientation="1,0" id="guide2232" />
+<sodipodi:guide position="2262,0" orientation="1,0" id="guide2281" />
+<sodipodi:guide position="2460,0" orientation="1,0" id="guide2480" />
+<sodipodi:guide position="2508,0" orientation="1,0" id="guide2529" />
+<sodipodi:guide position="2706,0" orientation="1,0" id="guide2728" />
+<sodipodi:guide position="2754,0" orientation="1,0" id="guide2777" />
+<sodipodi:guide position="2952,0" orientation="1,0" id="guide2976" />
+<sodipodi:guide position="3000,0" orientation="1,0" id="guide3025" />
+
+    </sodipodi:namedview>
+    <metadata
+       id="metadata7">
+      <rdf:RDF>
+        <cc:Work
+           rdf:about="">
+          <dc:format>image/svg+xml</dc:format>
+          <dc:type
+             rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+          <dc:title></dc:title>
+        </cc:Work>
+      </rdf:RDF>
+    </metadata>
+  </svg>
