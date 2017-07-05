@@ -1,4 +1,4 @@
-const createVerticalGuidesLines = (width, gutter, collumns) => {
+exports.createVerticalGuidesLines = (width, gutter, collumns) => {
   const collumn = (width - ((collumns + 1) * gutter)) / collumns
   const guideLines = Array(collumns * 2 + 1)
     .fill(null)

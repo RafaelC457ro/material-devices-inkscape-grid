@@ -1,5 +1,4 @@
-exports.template = (filename, width, height, gridLines) => {
-  return `<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
   <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
   <svg
@@ -10,13 +9,13 @@ exports.template = (filename, width, height, gridLines) => {
      xmlns="http://www.w3.org/2000/svg"
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-     width="${width}"
-     height="${height}"
-     viewBox="0 0 ${width} ${height}"
+     width="1080"
+     height="1920"
+     viewBox="0 0 1080 1920"
      id="svg2"
      version="1.1"
      inkscape:version="0.91 r13725"
-     sodipodi:docname="${filename}.svg">
+     sodipodi:docname="Samsung Galaxy S5.svg">
     <defs
        id="defs4">
       <clipPath
@@ -49,11 +48,16 @@ exports.template = (filename, width, height, gridLines) => {
        inkscape:window-maximized="1"
        showguides="true"
        inkscape:guide-bbox="true">
-      ${
-        gridLines.map((line,index) => {
-          return `<sodipodi:guide position="${line.x},${line.y}" orientation="${line.ox},${line.oy}" id="guide${line.x+index}" />`
-        }).join('\n')
-       }
+      <sodipodi:guide position="0,0" orientation="1,0" id="guide0" />
+<sodipodi:guide position="48,0" orientation="1,0" id="guide49" />
+<sodipodi:guide position="258,0" orientation="1,0" id="guide260" />
+<sodipodi:guide position="306,0" orientation="1,0" id="guide309" />
+<sodipodi:guide position="516,0" orientation="1,0" id="guide520" />
+<sodipodi:guide position="564,0" orientation="1,0" id="guide569" />
+<sodipodi:guide position="774,0" orientation="1,0" id="guide780" />
+<sodipodi:guide position="822,0" orientation="1,0" id="guide829" />
+<sodipodi:guide position="1032,0" orientation="1,0" id="guide1040" />
+<sodipodi:guide position="1080,0" orientation="1,0" id="guide1089" />
 
     </sodipodi:namedview>
     <metadata
@@ -69,5 +73,3 @@ exports.template = (filename, width, height, gridLines) => {
       </rdf:RDF>
     </metadata>
   </svg>
-`
-}
