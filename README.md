@@ -4,7 +4,7 @@ I used this code to generate svg-inkcape files with grids guidelines, based on
 So, you can use this to create you app or webpage wireframes using inkscape and
 Material Design rules.
 
-##Iphone 6 Plus exemple:
+## Iphone 6 Plus exemple:
 
 ![sample](images/exemple.png)
 
