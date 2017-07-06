@@ -2,13 +2,11 @@
   "name": "material-devices-inkscape-grid",
   "version": "0.0.1",
   "description": "",
-  "main": "src/index.js",
+  "main": "src/builder.js",
   "scripts": {
+    "build":"node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rafael Castro",
   "license": "MIT",
-  "dependencies": {
-
-  }
 }
