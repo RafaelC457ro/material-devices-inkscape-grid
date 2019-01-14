@@ -1,6 +1,6 @@
-exports.createVerticalGuidesLines = (width, gutter, collumns) => {
-  const collumn = (width - ((collumns + 1) * gutter)) / collumns
-  const guideLines = Array(collumns * 2 + 1)
+exports.createVerticalGuidesLines = (width, gutter, collums) => {
+  const collumn = (width - ((collums + 1) * gutter)) / collums
+  const guideLines = Array(collums * 2 + 1)
     .fill(null)
     .map((x, i) => (i + 1) % 2 === 0 ? collumn : gutter)
     .reduce((prev, current, index) => {
